@@ -1,6 +1,6 @@
 # Carbon Builder App
 
-This is the official repositor for the Carbon Builder web app. Initially the repositor should be private. So, if you can read this there is a problem. 
+This is the official repository for the Carbon Builder web app. We are still in development of this product. If you are interested in investing or contributing, please contact us at http://carbonbuilder.io 
 
 ## Getting Started
 
